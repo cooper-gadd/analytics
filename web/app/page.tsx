@@ -1,5 +1,4 @@
-import { Badge, Flex, Heading } from "frosted-ui";
-import * as Table from "frosted-ui/components/table";
+import { Badge, Flex, Heading, Table } from "frosted-ui";
 
 const visits = [
   {
